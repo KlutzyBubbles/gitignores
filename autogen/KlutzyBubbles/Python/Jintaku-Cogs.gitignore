@@ -1,0 +1,4 @@
+# Ignore cached files created by Red #
+######################################
+*.pyc
+tags.*
